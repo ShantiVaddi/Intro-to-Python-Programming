@@ -1,0 +1,4 @@
+Watering plants,high
+swimming,high
+swimming,high
+basket ball,low
